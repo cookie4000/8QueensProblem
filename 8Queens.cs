@@ -63,7 +63,7 @@ public class Queens {
                 {
                     if (result[i] == j)
                     {
-                        Console.Write(queenLogo);
+                        Console.Write(queenLogo+" ");
                     }
                     else
                     {
